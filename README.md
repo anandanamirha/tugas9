@@ -1,4 +1,4 @@
 ## Screenshot Aplikasigit
-![Tampilan Awal](assets/screenshots/screenshot1.png)
+![Tampilan Awal](assets/screenshots/Screenshot1.png)
 
 
